@@ -35,12 +35,21 @@
     </item>
     
     <item>
-      <title>Animaciòn Dìgital </title>
+      <title>Animación Digital </title>
       <link>https://crisogro.github.io/docs/encargo-2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://crisogro.github.io/docs/encargo-2/</guid>
-      <description>Ejercicio de animación volumétrica, creando composiciónes de luz y la sombra.</description>
+      <description>Ejercicio de animación volumétrica, creando composiciones de luz y la sombra.</description>
+    </item>
+    
+    <item>
+      <title>Narrativa volumen de luz</title>
+      <link>https://crisogro.github.io/docs/encargo-3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://crisogro.github.io/docs/encargo-3/</guid>
+      <description>Video compilado de ejercicio fotográfico aplicado a volúmenes y mapeo de texturas basándonos en el comportamiento de la luz y la sombra.</description>
     </item>
     
     <item>
@@ -59,15 +68,6 @@
       
       <guid>https://crisogro.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Narrativa volumen de luz</title>
-      <link>https://crisogro.github.io/docs/encargo-3/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://crisogro.github.io/docs/encargo-3/</guid>
-      <description>Video compilado de ejercicio fotográfico aplicado a volúmenes y mapeo de texturas basándonos en el comportamiento de la luz y la sombra.</description>
     </item>
     
   </channel>
