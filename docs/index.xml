@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://crisogro.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Narrativa volumen de luz</title>
-      <link>https://crisogro.github.io/docs/encargo-3/</link>
+      <title>Sobre mí</title>
+      <link>https://crisogro.github.io/docs/encargo-0/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://crisogro.github.io/docs/encargo-3/</guid>
-      <description>Video compilado de ejercicio fotográfico aplicado a volumenes y mapeo de texturas en base a luz y sombra.</description>
+      <guid>https://crisogro.github.io/docs/encargo-0/</guid>
+      <description>Un poco de mí y de algunos trabajos que reflejan lo que he aprendido durante estos años en el DesignLab UAI .</description>
     </item>
     
     <item>
@@ -26,21 +26,21 @@
     </item>
     
     <item>
-      <title>Sobre mí</title>
-      <link>https://crisogro.github.io/docs/encargo-0/</link>
+      <title>Volumen de Luz</title>
+      <link>https://crisogro.github.io/docs/encargo-2.1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://crisogro.github.io/docs/encargo-0/</guid>
-      <description>Un poco de mí y de algunos trabajos que reflejan lo que he aprendido durante estos años en el DesignLab UAI .</description>
+      <guid>https://crisogro.github.io/docs/encargo-2.1/</guid>
+      <description>Ejercicio fotográfico aplicado a volúmenes, interpretando las proyecciones de la luz y la sombra.</description>
     </item>
     
     <item>
-      <title>Volumen de Luz</title>
+      <title>Animaciòn Dìgital </title>
       <link>https://crisogro.github.io/docs/encargo-2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://crisogro.github.io/docs/encargo-2/</guid>
-      <description>Ejercicio fotográfico aplicado a volumenes, interpretando las proyecciónes de la luz y la sombra.</description>
+      <description>Ejercicio de animación volumétrica, creando composiciónes de luz y la sombra.</description>
     </item>
     
     <item>
@@ -59,6 +59,15 @@
       
       <guid>https://crisogro.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Narrativa volumen de luz</title>
+      <link>https://crisogro.github.io/docs/encargo-3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://crisogro.github.io/docs/encargo-3/</guid>
+      <description>Video compilado de ejercicio fotográfico aplicado a volúmenes y mapeo de texturas basándonos en el comportamiento de la luz y la sombra.</description>
     </item>
     
   </channel>
