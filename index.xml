@@ -63,10 +63,10 @@
     
     <item>
       <title>Electromovilidad Propuesta 1</title>
-      <link>https://crisogro.github.io/docs/encargo-7/</link>
+      <link>https://crisogro.github.io/docs/encargo-8/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://crisogro.github.io/docs/encargo-7/</guid>
+      <guid>https://crisogro.github.io/docs/encargo-8/</guid>
       <description>Electromovilidad primera propuesta, análisis del problema y primera solución.</description>
     </item>
     
@@ -95,6 +95,15 @@
       
       <guid>https://crisogro.github.io/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Examen Electromovilidad</title>
+      <link>https://crisogro.github.io/docs/encargo-7/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://crisogro.github.io/docs/encargo-7/</guid>
+      <description>Electromovilidad propuesta final, desarrollo de la problemática y solución final, integrando un sistema de movilidad urbano.</description>
     </item>
     
     <item>
